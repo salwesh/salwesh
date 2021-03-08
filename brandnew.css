@@ -52,7 +52,7 @@
 .slogan {
 	position: absolute;
 	top: 50%;
-	left: 25%;
+	text-align: center;
 	color: burlywood;
 	font-family: monospace;
 	font-size: 25px;
