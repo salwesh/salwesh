@@ -32,7 +32,7 @@
 	padding: 10px;
 }
 
-.header .menu {
+.header .menu a:hover {
 	float: right;
 }
 
